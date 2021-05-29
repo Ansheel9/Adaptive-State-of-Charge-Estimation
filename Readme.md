@@ -1,7 +1,7 @@
 # Adaptive SoC Estimation for Electric Vehicles :battery: 
 
 <p align="center">
-  <img src="https://github.com/Ansheel9/Adaptive-SoC-Estimation/blob/main/imgs/charging.jpg">
+  <img src="https://github.com/Ansheel9/Adaptive-SoC-Estimation/blob/master/imgs/charging.jpg">
 </p>
 
 ## Team
@@ -38,7 +38,7 @@ EKF/
 ### CNN-LSTM
 
 ### Howto
-1. Download `SimulatedSampleDataset` dataset from [here](https://github.com/Ansheel9/Adaptive-SoC-Estimation/tree/main/Code/CNN-LSTM/SimulatedSampleDataset)
+1. Download `SimulatedSampleDataset` dataset from [here](https://github.com/Ansheel9/Adaptive-SoC-Estimation/tree/master/Code/CNN-LSTM/SimulatedSampleDataset)
 
 2. Sturcture:
 ```shell
@@ -70,13 +70,13 @@ Optimizer   = Adam
 ### EKF
 
 Plot showing the input voltage, SoC & current over time:
-![](https://github.com/Ansheel9/Adaptive-SoC-Estimation/blob/main/imgs/ekf.png)
+![](https://github.com/Ansheel9/Adaptive-SoC-Estimation/blob/master/imgs/ekf.png)
 
 ---
 ### CNN-LSTM
 
 Plot showing the RMSEs of the training and testing performance with varying epoch:
-![](https://github.com/Ansheel9/Adaptive-SoC-Estimation/blob/main/imgs/rmse.png)
+![](https://github.com/Ansheel9/Adaptive-SoC-Estimation/blob/master/imgs/rmse.png)
 
 Plot showing the prediction result vs time & RMSE Loss:
-![](https://github.com/Ansheel9/Adaptive-SoC-Estimation/blob/main/imgs/cnn-lstm.png)
+![](https://github.com/Ansheel9/Adaptive-SoC-Estimation/blob/master/imgs/cnn-lstm.png)
